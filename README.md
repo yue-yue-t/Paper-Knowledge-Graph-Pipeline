@@ -2,6 +2,8 @@
 
 Build a knowledge graph from NLP research papers: information extraction, pattern clustering, and graph construction.
 
+English | [中文](README_CN.md)
+
 ---
 
 ## Quick Start
